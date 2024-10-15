@@ -143,7 +143,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 def main() -> None:
     # Вставьте ваш токен от BotFather
-    TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+    TOKEN = '7543357838:AAHakopJhfsdaSNzW4xKP9qg7ifwsqWaQG0'
 
     # Создаем приложение
     application = ApplicationBuilder().token(TOKEN).build()
